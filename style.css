@@ -298,4 +298,15 @@ body {
         font-size: 17px;
     }
 
+    /* Footer */
+
+    footer .line1{
+        flex-direction: column;
+    }
+
+    footer .location{
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
 }
